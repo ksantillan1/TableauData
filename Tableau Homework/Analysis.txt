@@ -1,0 +1,20 @@
+Analysis
+
+The stations with most start and end journeys Stations are Grove St PATH, 
+Hamilton Park, Sip Ave, Newport PATH, Marin Light Rail, and City Hall, 
+due to them being closed to the busiest places in the city and the most popular locations to visit.  
+The least popular stations seem to be the ones away from the city center 
+which makes sense since more people would use their own vehicles. 
+
+People go to work and out around 8am and 6pm – the rush hours. 
+Which are the busiest times for the rides too. 
+Therefore we can say that people use bike to go to work and back.
+
+
+Summer and fall (June-November most specifically) are the most popular time of the year 
+for rides. This makes sense since with a nice weather people are more likely to want be outdoors, 
+and a bike ride y more appealing than a car ride.
+
+
+Most customers are members, male between 25-40. While the ones with longer rides are males 19-22. 
+There was an slight increase in the number of females to ride comparing the beginning and the end of the year.
